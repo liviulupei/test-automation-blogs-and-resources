@@ -2,6 +2,7 @@
 
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [AI Testing Tools](https://ai-testing-tools.com/)
+- [Agent QA](https://github.com/vostride/agent-qa)
 - [Google Testing Blog](https://testing.googleblog.com/)
 - [Test Guild](https://testguild.com/)
 - [BugBench](https://bugbench.com/)
